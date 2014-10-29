@@ -1,3 +1,11 @@
+# NOTE: A much better alternative to this library can be found at:
+
+   https://github.com/smartystreets/go-aws-auth
+
+go-aws-auth supports many more signing algorithms and is almost a drop in replacement.
+
+
+
 # Signature v4 generation for Amazon AWS APIs
 
 # Overview
